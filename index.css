@@ -1,0 +1,61 @@
+body {
+    background: white;
+    margin:0;
+    font-family: helvetica;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.container {
+    width: 90%;
+    margin: 50px auto;
+    animation: fadein 2s;
+}
+.table-container {
+    width: 100%;
+}
+.title {
+    background-color: blue;
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0;
+    border-bottom-right-radius: 15px;
+    margin-bottom: 15px;
+    font-size: 25px;
+    min-width: 300px;
+    text-align: center;
+}
+hr {
+    margin:0;
+    border: 1px solid red;
+}
+.profile {
+    width: 50%;
+}
+.profile img {
+    width: 200px;
+    float: left;
+    margin-right: 15px;
+}
+.table-container td {
+    vertical-align: top;
+    padding: 15px;
+}
+.skill .content {
+    background-color: image;
+}
+.skill .content {
+    background-color: white;
+    color: #333;
+    padding: 15px;
+    border-radius: 5px;
+}
+.skill ul {
+    margin: 0;
+    list-style: none;
+}
+.skill li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f1f1f1;
+}
